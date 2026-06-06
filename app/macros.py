@@ -11,6 +11,7 @@ MACRO_LIBRARY = {
     "reset_password": "Steps to reset your password...",
     "refund_policy": "Our 30-day refund policy...",
     "shipping_delay": "We're sorry about the delay...",
+    "product_info": "Here's the information about our product...",
 }
 
 
